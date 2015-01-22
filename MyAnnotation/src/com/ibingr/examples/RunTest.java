@@ -3,6 +3,12 @@ package com.ibingr.examples;
 import java.lang.annotation.Annotation;
 import java.lang.reflect.Method;
  
+
+/*
+ *  
+ *  http://thelucid.com/2008/12/02/git-setting-up-a-remote-repository-and-doing-an-initial-push/
+ *  
+ */
  
 public class RunTest {
  
